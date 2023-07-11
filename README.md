@@ -21,6 +21,9 @@ Before you try it out, I recommend watching my youtube video first if you have n
 5. Go to the "Simulate" tab and make sure Auto-Tick is enabled, and is set to 2048.0 KHz.
 <img width="396" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/c388c14c-196e-4da7-b14f-10a6e27c1ff8">
 
+6. Go from the Design to the Simulate tab on the left and Enable Clock Ticks
+  <img width="163" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/046f25f0-6627-4cf8-8115-53aeeb0a6e1a">
+
 
 7. Set your FOV to around 50-100 in binary form and turn the "2" on the switch above it on and off to clear the instruction counter and press the "1" to start rendering!
 <img width="360" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/6650e1f2-c2fc-462e-976d-6988f0f5c4b7">
