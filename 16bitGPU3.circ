@@ -853,8 +853,9 @@
     <comp lib="4" loc="(1620,100)" name="ROM">
       <a name="appearance" val="logisim_evolution"/>
       <a name="contents">addr/data: 8 48
-80004 0 80004 0 c00040014 0 380004 0
-80004 0 c00040014 0 380004 0 c00340014
+240038 0 240008 0 2000220020 0 2000220020 0
+60038 0 60008 0 2000020020 0 2000020020 0
+2c0020 0 240008 0 240038 0 2000220020
 </a>
       <a name="dataWidth" val="48"/>
       <a name="labelvisible" val="true"/>
@@ -923,8 +924,9 @@
     <comp lib="4" loc="(2050,100)" name="ROM">
       <a name="appearance" val="logisim_evolution"/>
       <a name="contents">addr/data: 8 48
-c00040014 0 380004 0 c00340014 0 c00340014 0
-10001e000c 0 10001e000c 0 10001e000c 0 10001e000c
+2c0020 0 2c0020 0 240008 0 240038 0
+e0020 0 e0020 0 60008 0 60038 0
+e0020 0 60008 0 60038 0 2000020020
 </a>
       <a name="dataWidth" val="48"/>
       <a name="misaligned" val="true"/>
@@ -997,6 +999,9 @@ c00040014 0 380004 0 c00340014 0 c00340014 0
       <a name="appearance" val="logisim_evolution"/>
       <a name="contents">addr/data: 8 5
 10 1 18 14 2 18 14 2
+18 14 2 18 14 2 18 14
+2 18 14 2 18 14 2 18
+14 2 18 14 2 18 14 2
 18 14 2 18 14 2 18 14
 2 18 14 2 18 14 2 18
 14 2 18 14 2 18 14 2
