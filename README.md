@@ -18,6 +18,8 @@ Before you try it out, I recommend watching my youtube video first if you have n
 4. Open the turtle card in Logisim Evolution, and make sure to import the output hex files A and B into the corresponding ROMs.
 <img width="627" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/358d4f8f-2a86-4765-bed1-aa0a5574e22a">
 
+5. Go to the "Simulate" tab and make sure Auto-Tick is enabled, and is set to 2048.0 KHz.
+
 6. Set your FOV to around 50-100 in binary form and turn the "2" on the switch above it on and off to clear the instruction counter and press the "1" to start rendering!
 <img width="360" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/6650e1f2-c2fc-462e-976d-6988f0f5c4b7">
 
