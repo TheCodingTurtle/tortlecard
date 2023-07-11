@@ -25,7 +25,7 @@ Before you try it out, I recommend watching my youtube video first if you have n
 7. Set your FOV to around 50-100 in binary form and turn the "2" on the switch above it on and off to clear the instruction counter and press the "1" to start rendering!
 <img width="360" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/6650e1f2-c2fc-462e-976d-6988f0f5c4b7">
 
-8. Cube :D
+8. Wait for it to render your shape :D
 <img width="1101" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/17b23bb8-8503-4822-b799-01d264540966">
 
 
