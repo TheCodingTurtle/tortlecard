@@ -5,4 +5,5 @@ You can find the instructions to simulate it down below
 <img width="650" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/8b82c11a-74c7-4af4-889e-d2d0c9f6cd05">
 
 # Instructions:
+1. Make sure you have Logisim Evolution installed.
 
