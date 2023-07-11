@@ -19,11 +19,13 @@ Before you try it out, I recommend watching my youtube video first if you have n
 <img width="627" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/358d4f8f-2a86-4765-bed1-aa0a5574e22a">
 
 5. Go to the "Simulate" tab and make sure Auto-Tick is enabled, and is set to 2048.0 KHz.
+<img width="396" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/c388c14c-196e-4da7-b14f-10a6e27c1ff8">
 
-6. Set your FOV to around 50-100 in binary form and turn the "2" on the switch above it on and off to clear the instruction counter and press the "1" to start rendering!
+
+7. Set your FOV to around 50-100 in binary form and turn the "2" on the switch above it on and off to clear the instruction counter and press the "1" to start rendering!
 <img width="360" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/6650e1f2-c2fc-462e-976d-6988f0f5c4b7">
 
-7. Cube :D
+8. Cube :D
 <img width="1101" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/17b23bb8-8503-4822-b799-01d264540966">
 
 
