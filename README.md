@@ -7,7 +7,7 @@ You can find the instructions to simulate it down below
 
 Before you try it out, I recommend watching my youtube video first if you have no idea what you're doing
 
-# Instructions:
+### Instructions:
 1. Make sure you have Logisim Evolution installed.
 2. Open pointplotter.py and replace the output file location to your preffered location. (make sure it is a .hex file)
 <img width="1265" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/9bc5711d-6b98-4027-b9d7-99084bc46505">
