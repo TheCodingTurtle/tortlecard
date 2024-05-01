@@ -1,6 +1,3 @@
-# These are instructions for the older version. New instructions will be created soon
-
-# tortle card
 These are all the files for my 16-bit GPU called the tortle card 200X3D
 
 You can find the instructions to simulate it down below
@@ -9,7 +6,8 @@ You can find the instructions to simulate it down below
 
 Before you try it out, I recommend watching my youtube video first if you have no idea what you're doing
 
-# Instructions:
+
+# How to run the Graphics Card
 1. Make sure you have Logisim Evolution installed.
 2. Open pointplotter.py and replace the output file location to your preffered location. (make sure it is a .hex file)
 <img width="1265" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/9bc5711d-6b98-4027-b9d7-99084bc46505">
