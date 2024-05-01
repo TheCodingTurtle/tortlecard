@@ -1,4 +1,4 @@
-## These are instructions for the older version. New instructions will be created soon
+# These are instructions for the older version. New instructions will be created soon
 
 # tortle card
 These are all the files for my 16-bit GPU called the tortle card 200X3D
