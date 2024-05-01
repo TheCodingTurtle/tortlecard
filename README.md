@@ -1,37 +1,50 @@
-These are all the files for my 16-bit GPU called the tortle card 200X3D
+# Turtle Card 200X3D
+
+[![My youtube video](https://img.youtube.com/vi/VwDLsoGanac/0.jpg)](https://www.youtube.com/watch?v=VwDLsoGanac)
 
 You can find the instructions to simulate it down below
 
-<img width="650" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/8b82c11a-74c7-4af4-889e-d2d0c9f6cd05">
+![image](https://github.com/TheCodingTurtle/tortlecard/assets/67763250/7d223076-7fa4-43d6-85ef-f7e17b179188)
+
 
 Before you try it out, I recommend watching my youtube video first if you have no idea what you're doing
 
 
+
 # How to run the Graphics Card
 1. Make sure you have Logisim Evolution installed.
-2. Open pointplotter.py and replace the output file location to your preffered location. (make sure it is a .hex file)
-<img width="1265" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/9bc5711d-6b98-4027-b9d7-99084bc46505">
+2. Open 16bitGPU3.circ using Logisim.
+3. Select the "multicore" circuit.
 
-3. Select which of the template shapes you want to render by uncommenting them or create your own.
-<img width="1139" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/a60f77e1-db23-4edb-9571-427ca4bd7324">
+![image](https://github.com/TheCodingTurtle/tortlecard/assets/67763250/0971fff5-8c2d-441f-a178-86df638ed8e3)
 
-4. Open the turtle card in Logisim Evolution, and make sure to import the output hex files A and B into the corresponding ROMs.
-<img width="627" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/358d4f8f-2a86-4765-bed1-aa0a5574e22a">
-
-5. Go to the "Simulate" tab and make sure Auto-Tick is enabled, and is set to 2048.0 KHz.
+4. Go to the "Simulate" tab and make sure Auto-Tick is enabled, and is set to 2048.0 KHz.
 <img width="396" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/c388c14c-196e-4da7-b14f-10a6e27c1ff8">
 
-6. Go from the Design to the Simulate tab on the left and Enable Clock Ticks
-  <img width="163" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/046f25f0-6627-4cf8-8115-53aeeb0a6e1a">
+5. Go from the Design to the Simulate tab on the left and Enable Clock Ticks
+<img width="163" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/046f25f0-6627-4cf8-8115-53aeeb0a6e1a">
 
+6. Press the "RST" button to reset the graphics card and press "1" to start rendering.
+<img width="700" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/98808e99-02aa-47b1-81b1-1a9934391094">
 
-7. Set your FOV to around 50-100 in binary form and turn the "2" on the switch above it on and off to clear the instruction counter and press the "1" to start rendering!
-<img width="360" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/6650e1f2-c2fc-462e-976d-6988f0f5c4b7">
+Optional: You can use these two DIP switches to set the position of the light source in binary.
+![image](https://github.com/TheCodingTurtle/tortlecard/assets/67763250/b94c8973-2cfe-4e87-b789-69f4887a3b05)
 
-8. Wait for it to render your shape :D
-<img width="1101" alt="image" src="https://github.com/TheCodingTurtle/tortlecard/assets/67763250/17b23bb8-8503-4822-b799-01d264540966">
+# How to change the object it renders
 
+1. Open pointplotter.py and replace the output file location to your preferred location. (make sure it is a .hex file)
+![image](https://github.com/TheCodingTurtle/tortlecard/assets/67763250/1bbd463a-0e7e-41cf-9139-6115a8b48ebb)
 
+2. Select which of the template shapes you want to render by uncommenting them or create your own.
+![image](https://github.com/TheCodingTurtle/tortlecard/assets/67763250/68bcd846-76d6-447a-90be-5ae19d275178)
+![image](https://github.com/TheCodingTurtle/tortlecard/assets/67763250/2e34c42a-d803-4620-8131-b48ef7d65903)
+
+3. Run the program.
+
+4. Open the turtle card in Logisim Evolution, and make sure to import the output hex files A, B, and types into the corresponding ROMs.
+![image](https://github.com/TheCodingTurtle/tortlecard/assets/67763250/e6ab98d7-e0da-4424-9baa-ce61ea5f7e62)
+
+5. Follow the "How to run the Graphics Card" instructions
 
 (if you are stuck and don't know what to do in any of these steps, make sure to rewatch my youtube video or leave a comment with your problem)
 
