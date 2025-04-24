@@ -1,15 +1,18 @@
 # Turtle Card 200X3D
 
-[![My youtube video](https://img.youtube.com/vi/VwDLsoGanac/0.jpg)](https://www.youtube.com/watch?v=VwDLsoGanac)
+https://www.youtube.com/watch?v=rxjLSylOIGc
 
 You can find the instructions to simulate it down below
 
 ![image](https://github.com/TheCodingTurtle/tortlecard/assets/67763250/7d223076-7fa4-43d6-85ef-f7e17b179188)
 
-
 Before you try it out, I recommend watching my youtube video first if you have no idea what you're doing
 
+(If you are stuck and don't know what to do in any of these steps, make sure to rewatch my youtube video or leave a comment with your problem or ask me in my discord https://discord.gg/rczqRyqnyR)
 
+# Update: pointplotter.py file has an easy to use UI instead of having to use a list to make your shapes.
+
+![image](https://github.com/user-attachments/assets/bca77fb1-8c7b-4189-bb54-936aa4d99a41)
 
 # How to run the Graphics Card
 1. Make sure you have Logisim Evolution installed.
@@ -30,7 +33,7 @@ Before you try it out, I recommend watching my youtube video first if you have n
 Optional: You can use these two DIP switches to set the position of the light source in binary.
 ![image](https://github.com/TheCodingTurtle/tortlecard/assets/67763250/b94c8973-2cfe-4e87-b789-69f4887a3b05)
 
-# How to change the object it renders
+# How to change the object it renders (outdated instructions, use the UI)
 
 1. Open pointplotter.py and replace the output file location to your preferred location. (make sure it is a .hex file)
 ![image](https://github.com/TheCodingTurtle/tortlecard/assets/67763250/1bbd463a-0e7e-41cf-9139-6115a8b48ebb)
@@ -46,6 +49,6 @@ Optional: You can use these two DIP switches to set the position of the light so
 
 5. Follow the "How to run the Graphics Card" instructions
 
-(if you are stuck and don't know what to do in any of these steps, make sure to rewatch my youtube video or leave a comment with your problem)
+
 
 
